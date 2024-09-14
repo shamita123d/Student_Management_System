@@ -1,5 +1,5 @@
 # STUDENT MANAGEMENT SYSTEM
-A Student Management System built using Java, Hibernate, and Swing provides a graphical user interface (GUI) for managing student records.
+A Student Management System built using Java, JDBC, and Swing provides a graphical user interface (GUI) for managing student records.
 Also store data in database.
 
 # OUTPUT
